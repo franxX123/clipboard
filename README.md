@@ -1,5 +1,5 @@
 # clipboard
-Clipboard is a UI-only website to practice Tailwind.
+Clipboard is a UI-only website to build using React and Tailwind. Mockups designed using Figma.
 
 # Desktop:
 
